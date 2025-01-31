@@ -1,4 +1,4 @@
-#E-Commerce Customer Segmentation
+# E-Commerce Customer Segmentation
 
 ## Project Overview
 This project focuses on customer segmentation for an online retail business using transactional data from a UK-based retailer. The dataset, spanning transactions from 2010 to 2011, is analyzed to enhance marketing strategies and boost sales. Using K-Means clustering, we categorize customers into distinct segments and develop a recommendation system for personalized product suggestions.
